@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/phaser-practice/static/css/main.073c9b0a.css",
+    "main.js": "/phaser-practice/static/js/main.ecccc3a1.js",
+    "static/js/787.0c3f432a.chunk.js": "/phaser-practice/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/phaser-practice/index.html",
+    "static/media/logo.svg": "/phaser-practice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.073c9b0a.css.map": "/phaser-practice/static/css/main.073c9b0a.css.map",
+    "main.ecccc3a1.js.map": "/phaser-practice/static/js/main.ecccc3a1.js.map",
+    "787.0c3f432a.chunk.js.map": "/phaser-practice/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ecccc3a1.js"
+  ]
+}
